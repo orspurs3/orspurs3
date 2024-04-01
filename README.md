@@ -1,4 +1,4 @@
-### Hi there, my name is Oliver Robinson.
+### Hello, my name is Oliver Robinson. Please contact me at orobinson66@gmail.com.
 
 <!--
 **orspurs3/orspurs3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
